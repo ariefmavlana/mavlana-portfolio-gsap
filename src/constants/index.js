@@ -85,7 +85,7 @@ export const projects = [
     description:
       "An online car dealer specializing in motors sport or daily.",
     href: "",
-    image: "/assets/projects/mobile-accessories-store.jpg",
+    image: "/assets/projects/car-dealer-website.jpg",
     bgImage: "/assets/backgrounds/blanket.jpg",
     frameworks: [
       { id: 1, name: "Next" },
@@ -101,7 +101,7 @@ export const projects = [
     description:
       ".",
     href: "",
-    image: "/assets/projects/plant-shop.jpg",
+    image: "/assets/projects/3d-portofolio.jpg",
     bgImage: "/assets/backgrounds/curtains.jpg",
     frameworks: [
       { id: 1, name: "React" },
@@ -112,18 +112,16 @@ export const projects = [
   },
   {
     id: 3,
-    name: "Apple Tech Marketplace",
+    name: "Spylt GSAP",
     description:
-      "An e-commerce platform for Apple products and accessories with deals and category filtering.",
+      "A brand vitamin drink with falvour.",
     href: "",
-    image: "/assets/projects/apple-tech-store.jpg",
+    image: "/assets/projects/spylt-gsap.jpg",
     bgImage: "/assets/backgrounds/map.jpg",
     frameworks: [
       { id: 1, name: "React" },
       { id: 2, name: "Redux" },
-      { id: 3, name: "PostgreSQL" },
-      { id: 4, name: "Prisma" },
-      { id: 5, name: "Tailwind CSS" },
+      { id: 3, name: "Tailwind CSS" },
     ],
   },
   {
@@ -132,7 +130,7 @@ export const projects = [
     description:
       "A multi-category online shop featuring electronics, home appliances, and gaming gear with special offers.",
     href: "",
-    image: "/assets/projects/electronics-store.jpg",
+    image: "/assets/projects/inv-management.jpg",
     bgImage: "/assets/backgrounds/poster.jpg",
     frameworks: [
       { id: 1, name: "Next" },
@@ -148,7 +146,7 @@ export const projects = [
     description:
       "An advanced search for searching Real Estate in your favourite place.",
     href: "",
-    image: "/assets/projects/home-decor-store.jpg",
+    image: "/assets/projects/real-estate.jpg",
     bgImage: "/assets/backgrounds/table.jpg",
     frameworks: [
       { id: 1, name: "Next" },
@@ -177,11 +175,7 @@ export const projects = [
 ]
 
 export const socials = [
-  { name: "Instagram", href: "https://www.instagram.com/" },
-  {
-    name: "Youtube",
-    href: "https://www.youtube.com/",
-  },
-  { name: "LinkedIn", href: "https://www.linkedin.com/" },
-  { name: "GitHub", href: "https://github.com/" },
+  { name: "Instagram", href: "https://www.instagram.com/ariefmavlana" },
+  { name: "LinkedIn", href: "https://www.linkedin.com/in/arief-maulana-330142137" },
+  { name: "GitHub", href: "https://github.com/ariefmavlana" },
 ]
