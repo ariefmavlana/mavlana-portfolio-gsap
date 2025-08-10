@@ -56,7 +56,7 @@ const Contact = () => {
               <h2>Phone</h2>
               <div className="w-full h-px my-2 bg-white/30" />
               <p className="text-xl lowercase md:text-2xl lg:text-3xl">
-                +62 877 767 340 38
+                +62 822 5869 2970
               </p>
             </div>
             <div className="social-link">

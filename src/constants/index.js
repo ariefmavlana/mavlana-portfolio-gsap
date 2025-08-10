@@ -100,7 +100,7 @@ export const projects = [
     name: "3D Personal Portfolio",
     description:
       ".",
-    href: "",
+    href: "https://3d-mavlana-portfolio.vercel.app/",
     image: "/assets/projects/3d-portofolio.jpg",
     bgImage: "/assets/backgrounds/curtains.jpg",
     frameworks: [
@@ -115,7 +115,7 @@ export const projects = [
     name: "Spylt GSAP",
     description:
       "A brand vitamin drink with falvour.",
-    href: "",
+    href: "https://gsap-mavlana.vercel.app/",
     image: "/assets/projects/spylt-gsap.jpg",
     bgImage: "/assets/backgrounds/map.jpg",
     frameworks: [
